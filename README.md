@@ -42,6 +42,15 @@ Welcome to **Journey of Mine**, a fun and evolving Python project repository whe
 - Handling user input.
 - Using conditional statements to determine the winner.
 
+### Day 5: [Username, Password and Pin Generator](https://github.com/abirxgpt/Python-Projects/tree/main/Day%2005)
+
+**Description**: A Basic Username ID, UserPin and Password Generator for Websites that Need Registration.
+
+**Learning Outcomes**:
+- Implementing randomness with `random` module.
+- String Manupulation.
+- Using For Loop for the Generation.
+
 ---
 
 Thank you for visiting my repository! Feel free to explore the projects, provide feedback, and maybe even contribute. Happy coding!
