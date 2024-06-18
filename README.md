@@ -51,6 +51,25 @@ Welcome to **Journey of Mine**, a fun and evolving Python project repository whe
 - String Manupulation.
 - Using For Loop for the Generation.
 
+### Day 6: [Reeborg.ca Robo Problem Solving](https://github.com/abirxgpt/Python-Projects/tree/main/Day%2006)
+
+**Description**: https://reeborg.ca/reeborg.html Based Problems solving with the Help of Functions and Defining Function
+
+**Learning Outcomes**:
+- Code Line Optimiziation.
+- Function Implementation and Working.
+- Debugging and Problem Solving.
+
+### Day 7: [Hangman Word Guess Game](https://github.com/abirxgpt/Python-Projects/tree/main/Day%2007)
+**Description**: A Theme Based Hangman game where the player guesses letters to uncover a hidden word.
+
+**Learning Outcomes**:
+
+- Implementing randomness with random module.
+- Using lists to track guesses and display progress.
+- Conditional statements
+- Use of For and While Looping Statements
+
 ---
 
 Thank you for visiting my repository! Feel free to explore the projects, provide feedback, and maybe even contribute. Happy coding!
