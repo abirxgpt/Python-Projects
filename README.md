@@ -70,6 +70,16 @@ Welcome to **Journey of Mine**, a fun and evolving Python project repository whe
 - Conditional statements
 - Use of For and While Looping Statements
 
+### Day 8: [Caeser Cipher Encoding and Decoding using Shifting](https://github.com/abirxgpt/Python-Projects/tree/main/Day%2008)
+**Description**: A Sentence or Word Encoder and Decoder with the Help of Shifting.
+
+**Learning Outcomes**:
+
+- String Manupulation along
+- Index and List Manupulation
+- use of For Loop Statement
+- Refinement of program
+
 ---
 
 Thank you for visiting my repository! Feel free to explore the projects, provide feedback, and maybe even contribute. Happy coding!
