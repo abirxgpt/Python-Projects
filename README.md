@@ -80,6 +80,16 @@ Welcome to **Journey of Mine**, a fun and evolving Python project repository whe
 - use of For Loop Statement
 - Refinement of program
 
+### Day 9: [Silent Bidder](https://github.com/abirxgpt/Python-Projects/tree/main/Day%2009)
+**Description**: An Auction Tool that Let Allows the Users to Bid Anonymously without Knowing the Current Highest Price.
+Can be Refered to [Here](https://bidbeacon.com/what-is-a-silent-auction-and-how-do-they-work/)
+
+**Learning Outcomes**:
+
+- Uses of Dictionaries and Nested Dictionaries
+- For Loop and Finding Maximum Value
+- Clear Function in Repelit as well as how to add it to the IDE
+
 ---
 
 Thank you for visiting my repository! Feel free to explore the projects, provide feedback, and maybe even contribute. Happy coding!
