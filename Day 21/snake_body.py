@@ -61,3 +61,11 @@ class SnakeBody:
             self.head.right(90)
         elif self.head.heading() == 270.0:
             self.head.left(90)
+
+    @classmethod
+    def reset_snake(self):
+        for body in self.segment:
+            body.goto(999,999)
+        self.segment.clear()
+        self.createsnake()
+        self.head = self.segment[0]
