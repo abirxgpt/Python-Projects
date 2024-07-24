@@ -7,7 +7,6 @@ import pandas
 password = # Add your Mail Password here
 email = # Add your Email ID here
 
-
 # Defining Send Function
 def send_mail():
     with smtplib.SMTP("smtp.gmail.com", port=587) as connection:
