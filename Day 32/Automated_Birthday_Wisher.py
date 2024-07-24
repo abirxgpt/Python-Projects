@@ -4,8 +4,8 @@ import random as r
 import pandas
 
 # Constants
-password = "qhyhovphvhlevagh"
-email = "fuxnanami@gmail.com"
+password = # Add your Mail Password here
+email = # Add your Email ID here
 
 
 # Defining Send Function
@@ -20,7 +20,7 @@ def send_mail():
         )
 
 
-birthday_list = pandas.read_csv("birthdays.csv")
+birthday_list = pandas.read_csv("./Birthday_Data/birthdays.csv")
 birthday_dict = birthday_list.to_dict('records')
 
 # Current Date
