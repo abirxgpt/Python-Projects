@@ -3,6 +3,7 @@ import random
 import logo
 import clear
 
+# it's for the Designer ASCII LOGO 
 print(logo.logo)
 
 game_on = True
