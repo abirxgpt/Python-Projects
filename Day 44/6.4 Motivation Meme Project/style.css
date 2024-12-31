@@ -1,0 +1,29 @@
+html{
+    background-color: black;
+}
+
+img{
+    width: 100%;
+    border: 5px solid #03BfB5;
+    align-items: center;
+}
+
+div{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    text-align: center;
+}
+
+h1{
+    color: #03BfB5;
+    font-family: "Quintessential", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size:40px ;
+}
+
+p{
+    color: aliceblue;
+    font-family:'Courier New', Courier, monospace
+}
