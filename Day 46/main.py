@@ -8,8 +8,8 @@ date = input("Which year do you want to travel to? Input the date in format [YYY
 header = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0"}
 
 url = f"https://www.billboard.com/charts/hot-100/{date}"
-client_id = "7f90863586ec4fe8aeeaf461648f64ce"
-client_secret = "20ee3dbd0f1945c09e050c6f5625c90f"
+client_id = ENTER YOUR CLIENT ID HERE
+client_secret = ENTER YOUR CLIENT SECRET HERE
 
 
 response = requests.post(url=url, headers=header)
