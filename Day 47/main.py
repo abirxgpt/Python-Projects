@@ -19,6 +19,7 @@ soup = BeautifulSoup(amazon_webpage, "html.parser")
 price = soup.select_one(selector="div span .a-price-whole")
 name = soup.select_one(selector="div #titleSection")
 
+# This is to remove all the unwanted special characters from the Price Listed
 correctedprice = ''
 for i in price.text:
     if i.isnumeric():
